@@ -10,7 +10,7 @@
     <inherit-templates-p>f</inherit-templates-p>
     <auto-mount>tile--ideas</auto-mount>
 
-    <version name="1.0.2d" url="http://openacs.org/repository/download/apm/tile--ideas-1.0.2d.apm">
+    <version name="1.0.2" url="http://openacs.org/repository/download/apm/tile--ideas-1.0.2.apm">
         <owner url="mailto:acsctrl@mednet.ucla.edu">ACS CTRL</owner>
         <summary>Tile package for DGIT Ideas</summary>
         <release-date>2021-09-09</release-date>
@@ -18,7 +18,7 @@
         <maturity>0</maturity>
 
         <extends url="dgit-base-tile" version="1.3.0"/>
-        <provides url="tile--ideas" version="1.0.2d"/>
+        <provides url="tile--ideas" version="1.0.2"/>
 
         <callbacks>
         </callbacks>
